@@ -12,5 +12,23 @@ namespace WpfDemo
     /// </summary>
     public partial class App : Application
     {
+        //hola, esta es una prueba
+        /*
+         * 
+         * 
+         * 
+         * 
+         * 
+         * asdfasdf
+         * 
+         * asdf
+         * asd
+         * f
+         * asd
+         * f
+         * as
+         * df
+         * 
+         * */
     }
 }
