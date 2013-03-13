@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfDemo.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Acquire Image" Height="416" Width="632" Loaded="Window_Loaded">
+    <Grid Name="grid1" Height="294" Width="338" HorizontalAlignment="Left" Margin="30,0,0,0">
+        <WindowsFormsHost ></WindowsFormsHost>
+        <Button Height="23" HorizontalAlignment="Left" Margin="0,0,0,-37" Name="btnSelect" VerticalAlignment="Bottom" Width="88" Click="btnSelect_Click">Select  Source</Button>
+        <Button Height="23" Margin="103,0,148,-37" Name="btnAcquire" VerticalAlignment="Bottom" Click="btnAcquire_Click">Acquire</Button>
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="218,0,0,-37" Name="ddlResultFormat" VerticalAlignment="Bottom" Width="120"/>
+        <Button Height="23" Margin="357,0,-106,-37" Name="btn_OCR" VerticalAlignment="Bottom" Click="btnOCR_Click">OCR</Button>
+    </Grid>
+</Window>
