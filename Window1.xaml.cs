@@ -85,7 +85,7 @@ namespace WpfDemo
                 }
                 else
                 {
-                    filedlg.Filter = "Text File(*.txt)| *.txt test  yaaaa me harte";
+                    filedlg.Filter = "Text File(*.txt)| *.txt test  yaaaa me harte AH!!!!!";
                 }
 
                 if (filedlg.ShowDialog() == System.Windows.Forms.DialogResult.OK)
