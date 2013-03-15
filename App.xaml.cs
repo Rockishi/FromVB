@@ -10,7 +10,7 @@ namespace WpfDemo
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
-    public partial class App : Application
+    public partial class App : Application : ggjhgjgfjfgfg
     {
         //hola, esta es una prueba
         /*
