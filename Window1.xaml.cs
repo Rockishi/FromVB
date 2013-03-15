@@ -86,6 +86,8 @@ namespace WpfDemo
                 else
                 {
                     filedlg.Filter = "Text File(*.txt)| *.txt sadfa";
+                    string dsasdfaSDF;
+                    integer asdfasdf;
                 }
 
                 if (filedlg.ShowDialog() == System.Windows.Forms.DialogResult.OK)
