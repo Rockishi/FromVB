@@ -12,6 +12,8 @@ namespace WpfDemo
     /// </summary>
     public partial class App : Application : ggjhgjgfjfgfg
     {
+        string sadf;
+        string asdfasdf=123123ewaesdf;
         //hola, esta es una prueba
         /*
          * 
